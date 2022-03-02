@@ -10,5 +10,5 @@ int main()
 	cout << a * c;
 	cout << "Thank u 4 work!\n";
 
-
+	return 0;
 }
