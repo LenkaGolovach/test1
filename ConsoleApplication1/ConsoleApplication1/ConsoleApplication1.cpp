@@ -6,6 +6,7 @@ int main()
 	int a, b, c;
 	cout << "Take a, b, c - \n";
 	cin >> a >> b >> c;
+	cout << a + b;
 
 
 }
